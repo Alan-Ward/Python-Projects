@@ -8,3 +8,10 @@ This game is a clone of the snake game I used to play on coolmathgames.com as a 
 ![image](https://github.com/user-attachments/assets/0c71907d-c6a3-4c9b-b199-ab5648804a08)
 
 You can find it in snake.py
+
+## Gravity Simulator
+
+This simulator uses the equation: F = GMm r2 to determine the gravitational pull the planets have on each other. 
+![image](https://github.com/user-attachments/assets/a10627d7-9a38-4233-b3c8-fceda86d898b)
+
+You can find it in gravity.py
